@@ -3,7 +3,7 @@
 # 독도체(Dokdo)
 
 <a href="https://wess.tistory.com" target="_blank">
-    <img src="https://webfontworld.github.io/sandbox/Dokdo.jpg" alt="SBAgDokdogro" style="width:300px">
+    <img src="https://webfontworld.github.io/Dokdo/Dokdo.jpg" alt="Dokdo" style="width:300px">
 </a>
 
 <pre>
